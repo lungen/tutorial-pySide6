@@ -1,0 +1,4 @@
+{
+    "python.formatting.provider": "black",
+    "python.pythonPath": "/home/lakk/anaconda3/envs/pySide6/bin/python"
+}
